@@ -1,2 +1,2 @@
-# Keras-Pratice
-各种练习
+# Python-Personal-Trainee
+Python个人练习生
