@@ -1,2 +1,2 @@
-# Python-Personal-Trainee
-Python个人练习生
+# LSTM-Personal-Trainee
+LSTM个人练习生
